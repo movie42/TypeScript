@@ -1,5 +1,4 @@
 import * as CryptoJS from "crypto-js";
-import { createNew } from "typescript";
 
 class Block {
   public index: number;
